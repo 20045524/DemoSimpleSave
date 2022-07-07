@@ -15,9 +15,6 @@ public class MainActivity extends AppCompatActivity {
     Button btnSave, btnRestore;
     EditText etText;
 
-    //are you able to see this
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
